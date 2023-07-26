@@ -15,6 +15,8 @@
   <img src="assets/Screenshot4.png" width="350" title="hover text">
   </p>
 
+[![Watch the video]](https://drive.google.com/file/d/1elBQtbtnCXsT0wd0jyUB4KVeIo0zefLU/view) 
+
 ## Description
 AS A developer
 I WANT a README generator
